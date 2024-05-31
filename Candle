@@ -1,0 +1,6 @@
+c1 = int(input())
+b1 = c1
+time = c1 * 2
+count = time + (b1/2)
+	
+print (count)
